@@ -1,0 +1,3 @@
+# bzr-builder format 0.3 deb-version 0.4+r959+pkg84~daily
+lp:granite revid:launchpad_translations_on_behalf_of_elementary-pantheon-20160701052928-jq1wtndv2we8jkol
+nest-part packaging lp:~elementary-os/granite/deb-packaging debian debian revid:cody@elementary.io-20160612212135-w0eplijimpwzz4q4
